@@ -3,3 +3,68 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesMixSurv"]
+	path = BayesMixSurv
+	url = https://github.com/cran/BayesMixSurv
+	shallow = true
+	registered = true
+[submodule "BSGW"]
+	path = BSGW
+	url = https://github.com/cran/BSGW
+	shallow = true
+	registered = true
+[submodule "CFC"]
+	path = CFC
+	url = https://github.com/cran/CFC
+	shallow = true
+	registered = true
+[submodule "DBR"]
+	path = DBR
+	url = https://github.com/cran/DBR
+	shallow = true
+	registered = true
+[submodule "EnsembleBase"]
+	path = EnsembleBase
+	url = https://github.com/cran/EnsembleBase
+	shallow = true
+	registered = true
+[submodule "EnsembleCV"]
+	path = EnsembleCV
+	url = https://github.com/cran/EnsembleCV
+	shallow = true
+	registered = true
+[submodule "EnsemblePCReg"]
+	path = EnsemblePCReg
+	url = https://github.com/cran/EnsemblePCReg
+	shallow = true
+	registered = true
+[submodule "EnsemblePenReg"]
+	path = EnsemblePenReg
+	url = https://github.com/cran/EnsemblePenReg
+	shallow = true
+	registered = true
+[submodule "MatchLinReg"]
+	path = MatchLinReg
+	url = https://github.com/cran/MatchLinReg
+	shallow = true
+	registered = true
+[submodule "MfUSampler"]
+	path = MfUSampler
+	url = https://github.com/cran/MfUSampler
+	shallow = true
+	registered = true
+[submodule "RegressionFactory"]
+	path = RegressionFactory
+	url = https://github.com/cran/RegressionFactory
+	shallow = true
+	registered = true
+[submodule "SAMUR"]
+	path = SAMUR
+	url = https://github.com/cran/SAMUR
+	shallow = true
+	registered = true
+[submodule "sns"]
+	path = sns
+	url = https://github.com/cran/sns
+	shallow = true
+	registered = true
