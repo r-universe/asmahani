@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "BayesMixSurv"]
-	path = BayesMixSurv
-	url = https://github.com/cran/BayesMixSurv
 [submodule "BSGW"]
 	path = BSGW
 	url = https://github.com/cran/BSGW
+[submodule "BayesMixSurv"]
+	path = BayesMixSurv
+	url = https://github.com/cran/BayesMixSurv
 [submodule "CFC"]
 	path = CFC
 	url = https://github.com/cran/CFC
