@@ -14,18 +14,6 @@
 [submodule "DBR"]
 	path = DBR
 	url = https://github.com/cran/DBR
-[submodule "EnsembleBase"]
-	path = EnsembleBase
-	url = https://github.com/cran/EnsembleBase
-[submodule "EnsembleCV"]
-	path = EnsembleCV
-	url = https://github.com/cran/EnsembleCV
-[submodule "EnsemblePCReg"]
-	path = EnsemblePCReg
-	url = https://github.com/cran/EnsemblePCReg
-[submodule "EnsemblePenReg"]
-	path = EnsemblePenReg
-	url = https://github.com/cran/EnsemblePenReg
 [submodule "MatchLinReg"]
 	path = MatchLinReg
 	url = https://github.com/cran/MatchLinReg
